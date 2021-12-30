@@ -1,10 +1,10 @@
 <p align="center">
-   <img src="" alt="" width="280"/>
+   <img src="https://github.com/Jeffx234/dashgo/blob/main/src/assets/logo.png" alt="" width="280"/>
 </p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/jefersonluisx/">
-      <img alt="Jeferson Luis" src="https://img.shields.io/badge/-Jeferson Luis-01AEDA?style=flat&logo=Linkedin&logoColor=pink" />
+      <img alt="Jeferson Luis" src="https://img.shields.io/badge/-Jeferson Luis-01AEDA?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-01AEDA">
@@ -23,13 +23,13 @@
 ### Fotos
 
 <div>
-   <img src="" width="400px" />
+   <img src="https://github.com/Jeffx234/dashgo/blob/main/src/assets/print4.png" width="400px" />
 
-   <img src="" width="400px" />
+   <img src="https://github.com/Jeffx234/dashgo/blob/main/src/assets/print3.png" width="400px" />
 
-   <img src="" width="400px" />
+   <img src="https://github.com/Jeffx234/dashgo/blob/main/src/assets/print2.png" width="400px" />
 
-   <img src="" width="400px" />
+   <img src="https://github.com/Jeffx234/dashgo/blob/main/src/assets/print1.png" width="400px" />
 </div>
 
 # :computer: Tecnologias
