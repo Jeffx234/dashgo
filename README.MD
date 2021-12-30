@@ -1,10 +1,10 @@
 <p align="center">
-   <img src="" alt="WorldTrip" width="280"/>
+   <img src="" alt="" width="280"/>
 </p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/jefersonluisx/">
-      <img alt="Henrique Tavares" src="https://img.shields.io/badge/-Jeferson Luis-01AEDA?style=flat&logo=Linkedin&logoColor=pink" />
+      <img alt="Jeferson Luis" src="https://img.shields.io/badge/-Jeferson Luis-01AEDA?style=flat&logo=Linkedin&logoColor=pink" />
    </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-01AEDA">
