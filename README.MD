@@ -49,12 +49,11 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-https://github.com/Jeffx234/ignite-reactjs-dashgo.git
-```
+https://github.com/Jeffx234/dashgo..git```
 
 ```bash
 # Acesse a pasta do projeto
-cd ignite-reactjs-dashgo
+cd dashgo.
 ```
 
 ```bash
